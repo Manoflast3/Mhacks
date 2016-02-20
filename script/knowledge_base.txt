@@ -1,0 +1,38 @@
+Need to remove all the "'" first. And the test data is coming from mp3,tshirt,psv and bottle seller 
+__________________________________________________________________________________________________
+RB,VBN,NN|never received item
+RB,VBD|very disappointed
+RB,VBD,PRP$,NN|never receive my item
+NNP,NNP,VB,NNP|do not buy this
+JJ,NN,IN,NN|total waste of money
+NNP,NNP,NNP|send wrong stuff
+RB,VBN|not received
+RB,JJ,NN,NN|very slow reply message
+NN,VBD,VBN|bottle was cracked
+RB,JJ|very disapprointed
+VBD,RB,VB|did not receive
+NNP,RB,VB|did not work
+NNP,NN,NN|seller didnt response
+VBZ,RB,JJ|is not genuine
+RB,VBD,NN|never got item
+JJ,NN|horrible product
+JJ,NN,NN|bad costumer service
+RB,JJ|not worth
+RB,VBD|immediately broke
+NNP,IN,NN|piece of junk
+NN,NN,VBD|item didnt arrived
+VBP,RB,VBC|do not work
+VBD,PRP,VB|received it broken
+RB,DT,JJ,NN|not a good service
+VBP,VBD|havent received
+RB,VBD|never reply
+NNP,NN|dont work
+NN,IN,NN|nothing like picture
+JJ,NNP,NNP|horrible cheap quanlity
+RB,IN,VBN|not as list
+RB,JJ,NN|very bad quantity
+NNP,RB,VBD,RB|item not discribed properly
+
+
+
+
